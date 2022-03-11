@@ -1,0 +1,9 @@
+version: '3'
+services:
+  job:
+    build:
+      context: .
+    env_file:
+      - .env
+    volumes:
+      - ./src:/src

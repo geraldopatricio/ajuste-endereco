@@ -1,0 +1,9 @@
+.ideia/
+.env
+venv
+__pycache__
+log.txt
+logPier.txt
+data.csv
+.csv
+.log

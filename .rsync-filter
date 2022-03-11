@@ -1,0 +1,12 @@
+.git
+.env
+.git*
+*.patch
+*.diff
+deploy.sh
+.rsync-filter
+CHANGELOG.md
+README.md
+*.csv
+.log
+.env.example
